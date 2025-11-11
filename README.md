@@ -1,6 +1,6 @@
 # Imperial College Environmental Data Science Practicals Guide
 
-This is a course guide extension for the MSc in Environmental Data Science and Machine Learning at Imperial College London.
+This is a course guide extension for the MSc in Environmental Data Science and Machine Learning module
 
 ## Features
 
